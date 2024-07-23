@@ -20,12 +20,12 @@ I am passionate about software development and love to explore new technologies.
 <br>
 
 ## Get in Touch
-Feel free to reach out if you have any questions, suggestions, or just want to chat! You can connect with me via [LinkedIn](https://www.linkedin.com/in/niwesh-waiba/) or [Instagram](https://www.instagram.com/niwesh_waiba/).
+Feel free to reach out if you have any questions, suggestions, or just want to chat! You can connect with me via [LinkedIn](https://www.linkedin.com/in/pal-lap/ ).
 
 Let's code and learn together! 😊
 
 <!--
-**Niwesh-waiba/Niwesh-waiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
