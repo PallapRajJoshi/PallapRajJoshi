@@ -9,7 +9,6 @@ Welcome to my GitHub profile!
 I am passionate about software development and love to explore new technologies. Currently, I excel at Java and I'm actively learning Node.js and React to expand my skill set.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pal-Lap&show_icons=true&locale=en&layout=compact" alt="pallap" /></p>
 
 ## What I Do
 - 💻 Experienced in Java development.
